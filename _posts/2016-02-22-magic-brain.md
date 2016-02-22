@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T08:07:30.754Z'
-dateModified: '2016-02-22T08:05:52.634Z'
+datePublished: '2016-02-22T08:42:22.479Z'
+dateModified: '2016-02-22T08:37:15.228Z'
 title: Magic brain
 author: []
+sourcePath: _posts/2016-02-22-magic-brain.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-22-magic-brain.md
-published: true
 url: magic-brain/index.html
 _type: Article
 
 ---
 # Magic brain
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69971b2c-f3d4-4d58-9146-5f797536a462.jpg)
+![Magic brain calculator owned by Graeme](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1beb04572f9f591a6316d2666a723a03450eda3e.jpg)
 
 Meet the granddad of the modern electronic calculator. Called the Magic Brain, it promised special powers of addition, subtraction and multiplication.
 
