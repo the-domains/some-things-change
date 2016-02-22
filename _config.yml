@@ -20,8 +20,8 @@ color:
     - '#FFFFFF'
     - '#125688'
     - '#25272A'
-    - '#CF7742'
-    - '#A5A7AA'
+    - '#9B9B99'
+    - '#6E3828'
   rhythmicContrast: 0.4737156
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Some things change
 favicon: null
+name: Some things change
 opengraph:
   image: null
   type: null
