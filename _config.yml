@@ -1,29 +1,41 @@
-name: Some things change
-favicon: null
-layout_spectrum: 0.2894727219827473
-typography_spectrum: 0.5208315930794924
 title: Some things change
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2096774
+  brandStrength: 0.1875
+  lightness: 0.7903225
   brandColors:
     - '#feffe6'
     - '#020200'
     - '#a73c00'
     - '#e77f46'
     - '#f5004c'
-  brandStrength: 0.1875
-  lightness: 0.7159993541426957
-  saturation: 0.30049560219049454
-  rhythmicContrast: 0.07777086342684925
-purpose: []
+  rhythmicContrast: 0.4737156
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Some things change
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5208315930794924
+layout_spectrum: 0.2894727219827473
