@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T08:42:22.479Z'
-dateModified: '2016-02-22T08:37:15.228Z'
+datePublished: '2016-02-22T08:44:00.582Z'
+dateModified: '2016-02-22T08:42:29.682Z'
 title: Magic brain
 author: []
 sourcePath: _posts/2016-02-22-magic-brain.md
